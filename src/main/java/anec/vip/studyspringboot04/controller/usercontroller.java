@@ -19,14 +19,14 @@ public class usercontroller {
         return usermapper.selectAllUser();
     }
 
-    @RequestMapping("adduser")
-    public int addtuser(){
-        user u = new user();
-        u.setUsername("alex");
-        u.setPassword("654321");
-        u.setEmail("123465@qq.com");
-        u.setIdcard("431123198708033143");
-        u.setPhone("18700101010");
-        return usermapper.insertUser(u);
-    }
+//    @RequestMapping("adduser")
+//    public int addtuser(){
+//        user u = new user();
+//        u.setUsername("alex");
+//        u.setPassword("654321");
+//        u.setEmail("123465@qq.com");
+//        u.setIdcard("431123198708033143");
+//        u.setPhone("18700101010");
+//        return usermapper.selectAllUser(u);
+//    }
 }
