@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6e6d44-0fb1-4b9e-920b-5971340e6d19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/anec/vip/studyspringboot04/Studyspringboot04Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/anec/vip/studyspringboot04/bean/user.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/anec/vip/studyspringboot04/config/Druidconfi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/anec/vip/studyspringboot04/config/SpringMethodAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/anec/vip/studyspringboot04/controller/usercontroller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/anec/vip/studyspringboot04/mapper/usermapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mabatis/mapper/usermapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mabatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/anec/vip/studyspringboot04/Studyspringboot04ApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,11 +75,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/anec/vip/studyspringboot04/controller/usercontroller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="236">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#561#562#0" expanded="true" />
               </folding>
             </state>
@@ -383,7 +371,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569491864010</updated>
       <workItem from="1569491867753" duration="6007000" />
-      <workItem from="1569548537780" duration="9496000" />
+      <workItem from="1569548537780" duration="9743000" />
     </task>
     <task id="LOCAL-00001" summary="实现mybatis 配置文件方式">
       <created>1569586678412</created>
@@ -392,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569586678412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="实现mybatis 配置文件方式">
+      <created>1569586914233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569586914233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -422,13 +417,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15503000" />
+    <option name="totallyTimeSpent" value="15750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="386" y="56" width="1527" height="902" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23040219" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23040219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -450,7 +444,7 @@
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32899868" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,11 +588,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/anec/vip/studyspringboot04/controller/usercontroller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="236">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
             <element signature="e#561#562#0" expanded="true" />
           </folding>
         </state>
